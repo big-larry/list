@@ -1,4 +1,4 @@
-package suckutils
+package list
 
 type LinkedListNode[T any] struct {
 	next  *LinkedListNode[T]

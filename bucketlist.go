@@ -1,4 +1,4 @@
-package suckutils
+package list
 
 import "errors"
 
